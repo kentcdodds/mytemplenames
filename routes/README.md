@@ -1,0 +1,1 @@
+This is a simple personal project to make it easy for members of the Church of Jesus Christ of Latter-Day Saints to get a report of all their ancestors in the FamilySearch.org database who are ready to go to the temple.
