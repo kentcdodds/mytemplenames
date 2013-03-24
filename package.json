@@ -1,5 +1,6 @@
 {
-  "name": "application-name",
+  "name": "mytemplenames",
+  "description": "Finding all temple ready family names is now a cinch.",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,6 +12,7 @@
     "stylus": "*",
     "jquery": "*",
     "passport": "*",
-    "passport-familysearch": "*"
+    "passport-familysearch": "*",
+    "mongodb": "*"
   }
 }
